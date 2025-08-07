@@ -32,5 +32,13 @@
 
 **- Streamlit**
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+
+
+live Now!!
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classifier-yourid.streamlit.app)
+	
+
 
 
