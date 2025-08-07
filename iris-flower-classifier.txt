@@ -1,0 +1,4 @@
+iris-flower-classifier/
+├── iris_classifier.ipynb       # Your notebook
+├── requirements.txt            # Will include later
+└── README.md                   # Optional for now
