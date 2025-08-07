@@ -37,8 +37,10 @@
 
 live Now!!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classifier-yourid.streamlit.app)
-	
+## 🌐 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://irisflowerclassifier-kbvnb5xgrwrhalk5522wv9.streamlit.app/)
+
 
 
 
